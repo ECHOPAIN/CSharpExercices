@@ -45,6 +45,7 @@ namespace CS.Tests._02_Intermediate
         [Description("Write a program to check whether a number is prime or not using recursion.")]
         public void IsPrimeNumber()
         {
+            
             // Arrange
             var recursion = new Recursion();
 
